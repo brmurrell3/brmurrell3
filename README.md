@@ -1,16 +1,26 @@
-## Hi there 👋
+# Brendan Murrell
+
+**Software Engineer**  
+Charles Schwab, thinkorswim Technology  
+Ann Arbor, MI
+
+---
+
+**Interests**
+- High-performance trading systems
+- Options pricing and volatility algorithms
+- Low-level/system design
+- LLM inference and infrastructure
+
+**Experience**
+- Building and optimizing trading platforms, with an emphasis on reliability and speed
+- Options analytics and system architecture
+- Exploring new topics in systems and large-scale inference
+
+**Connect**
+- [LinkedIn](https://www.linkedin.com/in/brendanamurrell)
 
 <!--
-**brmurrell3/brmurrell3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Projects**
+- Open-source repositories coming soon
 -->
