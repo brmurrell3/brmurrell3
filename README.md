@@ -1,26 +1,13 @@
 # Brendan Murrell
 
-**Software Engineer**  
-Charles Schwab, thinkorswim Technology  
-Ann Arbor, MI
+**Software Engineer** · Ann Arbor, MI
 
 ---
 
-**Interests**
-- High-performance trading systems
-- Options pricing and volatility algorithms
-- Low-level/system design
-- LLM inference and infrastructure
+**Work** — Building and optimizing trading platforms with a focus on options pricing, volatility algorithms, and low-latency systems.
 
-**Experience**
-- Building and optimizing trading platforms, with an emphasis on reliability and speed
-- Options analytics and system architecture
-- Exploring new topics in systems and large-scale inference
+**Projects** — ZK arithmetic hardware, LLM agent orchestration, risk-neutral density visualization.
 
 **Connect**
+- [brendanmurrell.com](https://brendanmurrell.com)
 - [LinkedIn](https://www.linkedin.com/in/brendanamurrell)
-
-<!--
-**Projects**
-- Open-source repositories coming soon
--->
